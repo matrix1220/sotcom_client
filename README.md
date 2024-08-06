@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+![1](https://github.com/matrix1220/sotcom_flutter_client/blob/main/docs/img1.jpg?raw=true)
+
+![2](https://github.com/matrix1220/sotcom_flutter_client/blob/main/docs/img2.jpg?raw=true)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
